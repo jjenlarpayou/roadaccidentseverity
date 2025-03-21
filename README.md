@@ -3,7 +3,7 @@
 ## Overview
 The project involves thorough exploratory data analysis, data preparation including cleaning, outlier removal, data encoder, followed by the development of robust machine learning models (Random Forest, XGBoost, L-GBM, MLP). By systematically exploring the interplay between weather, road conditions, and accident severity, this project aims to address this gap by assessing the severity of road accidents across various classes, including fatal, hospitalization, medical treatment, minor injury, and property damage, attributing them to weather and road conditions. Additionally, it aims to provide valuable insights for enhancing road safety measures and reducing the toll of road accidents on public health and infrastructure.
 
-### Note: This project includes many experiments in .py and .ipynb files to achieve the best outcome.
+#### Note: This project includes many experiments in .py and .ipynb files to achieve the best outcome. You can try different experiments with several functions contained in Functions folder.
 
 ## Dataset 
 https://www.data.qld.gov.au/dataset/crash-data-from-queensland-roads/resource/e88943c0-5968-4972-a15f-38e120d72ec0.<br>
